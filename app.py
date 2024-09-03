@@ -2,12 +2,13 @@ import os
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 from bson.json_util import dumps
+from flask_cors import CORS
 
 import math
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-
+CORS(app)
 
 client = MongoClient('mongodb+srv://projectssmit:8FvTZSs4pQ7sADQK@midfloridadata.nungw.mongodb.net/?retryWrites=true&w=majority&appName=MidFloridaData') 
 # use a database named "myDatabase"
