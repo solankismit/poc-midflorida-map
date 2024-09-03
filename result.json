@@ -1,0 +1,558 @@
+[
+    {
+        "_id": "66d5b7d47195bb21adffca33",
+        "createdAt": "2024-08-28T12:38:12.830114",
+        "title": "Elm Street",
+        "location": [
+            34.56101665070234,
+            -82.89240034755971
+        ],
+        "zipcode": "29252-7099",
+        "categories": [
+            "ATM",
+            "Bank",
+            "Credit Union"
+        ],
+        "address": "426 Elm Street, Fort Worth, TX",
+        "id": "68d21868-6659-4d0a-9d50-8b02b66fc1f6"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca34",
+        "createdAt": "2024-08-28T12:38:12.830136",
+        "title": "Main Street",
+        "location": [
+            32.87783565632161,
+            -88.44390706854064
+        ],
+        "zipcode": "18321-4694",
+        "categories": [
+            "Bank",
+            "ATM"
+        ],
+        "address": "543 Main Street, San Antonio, TX",
+        "id": "660f27d6-5070-47a0-835f-8483b09c89dd"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca35",
+        "createdAt": "2024-08-28T12:38:12.830158",
+        "title": "Oak Street",
+        "location": [
+            28.624704605025418,
+            -80.93214536059195
+        ],
+        "zipcode": "92675-2552",
+        "categories": [
+            "Credit Union",
+            "ATM"
+        ],
+        "address": "695 Oak Street, Austin, TX",
+        "id": "1aa4e166-a736-4a13-bc56-ee09a1adca9e"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca36",
+        "createdAt": "2024-08-28T12:38:12.830175",
+        "title": "Cedar Street",
+        "location": [
+            33.64431084276444,
+            -94.19378943482974
+        ],
+        "zipcode": "26717-9684",
+        "categories": [
+            "Credit Union",
+            "ATM"
+        ],
+        "address": "957 Cedar Street, Fort Worth, TX",
+        "id": "d58e76db-b77c-41c6-adbd-0406c94a952f"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca37",
+        "createdAt": "2024-08-28T12:38:12.830198",
+        "title": "Elm Street",
+        "location": [
+            33.20296654278538,
+            -84.09213055727076
+        ],
+        "zipcode": "83225-6931",
+        "categories": [
+            "Bank"
+        ],
+        "address": "401 Elm Street, Dallas, TX",
+        "id": "218d66bd-7a5c-475a-a7d6-1b81383de429"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca38",
+        "createdAt": "2024-08-28T12:38:12.830215",
+        "title": "Pine Street",
+        "location": [
+            32.21088596782712,
+            -82.85574170587027
+        ],
+        "zipcode": "30851-3875",
+        "categories": [
+            "ATM"
+        ],
+        "address": "987 Pine Street, Dallas, TX",
+        "id": "a192e956-2363-4c3f-9ed2-b3537b2c9419"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca39",
+        "createdAt": "2024-08-28T12:38:12.830237",
+        "title": "Elm Street",
+        "location": [
+            28.426539656670215,
+            -88.40590882709661
+        ],
+        "zipcode": "87125-6274",
+        "categories": [
+            "Bank",
+            "Credit Union"
+        ],
+        "address": "201 Elm Street, Dallas, TX",
+        "id": "6c071655-c5e3-4c85-b894-f9e44acf478b"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3a",
+        "createdAt": "2024-08-28T12:38:12.830256",
+        "title": "Elm Street",
+        "location": [
+            29.82861612983296,
+            -84.62340805519555
+        ],
+        "zipcode": "15941-6368",
+        "categories": [
+            "ATM",
+            "Bank"
+        ],
+        "address": "786 Elm Street, Houston, TX",
+        "id": "b29d5044-b34e-4102-be10-8b041d9f6285"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3b",
+        "createdAt": "2024-08-28T12:38:12.830272",
+        "title": "Oak Street",
+        "location": [
+            33.8150301520527,
+            -90.12513735660842
+        ],
+        "zipcode": "49907-8699",
+        "categories": [
+            "Credit Union"
+        ],
+        "address": "833 Oak Street, Fort Worth, TX",
+        "id": "2cb96690-3f8d-474b-89de-74a23399d6fb"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3c",
+        "createdAt": "2024-08-28T12:38:12.830286",
+        "title": "Oak Street",
+        "location": [
+            29.7165551919678,
+            -90.2129769622233
+        ],
+        "zipcode": "14708-7123",
+        "categories": [
+            "Bank",
+            "ATM",
+            "Credit Union"
+        ],
+        "address": "360 Oak Street, Dallas, TX",
+        "id": "e9d6d13f-9bb4-422d-8c34-e3fb4707c35c"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3d",
+        "createdAt": "2024-08-28T12:38:12.830301",
+        "title": "Main Street",
+        "location": [
+            33.255674223931315,
+            -83.29069200794598
+        ],
+        "zipcode": "65068-2587",
+        "categories": [
+            "ATM"
+        ],
+        "address": "663 Main Street, Houston, TX",
+        "id": "ead60ba9-99f2-41ae-b17c-d6223041d13a"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3e",
+        "createdAt": "2024-08-28T12:38:12.830322",
+        "title": "Cedar Street",
+        "location": [
+            32.597864912139435,
+            -86.05966124624855
+        ],
+        "zipcode": "36338-8575",
+        "categories": [
+            "Bank",
+            "ATM"
+        ],
+        "address": "457 Cedar Street, Dallas, TX",
+        "id": "5fe3ca60-1be3-4fd2-b460-4353d439cfec"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca3f",
+        "createdAt": "2024-08-28T12:38:12.830334",
+        "title": "Main Street",
+        "location": [
+            26.507704134523163,
+            -95.22542744961329
+        ],
+        "zipcode": "93142-6163",
+        "categories": [
+            "Credit Union"
+        ],
+        "address": "895 Main Street, San Antonio, TX",
+        "id": "8582d85e-3f03-418b-a244-4ebfdefe1dc9"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca40",
+        "createdAt": "2024-08-28T12:38:12.830345",
+        "title": "Main Street",
+        "location": [
+            25.230578118003333,
+            -86.80708581127436
+        ],
+        "zipcode": "85094-9110",
+        "categories": [
+            "Credit Union",
+            "Bank",
+            "ATM"
+        ],
+        "address": "47 Main Street, Houston, TX",
+        "id": "9fd0dcf1-eb50-43eb-bb07-d00373fa6b9c"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca41",
+        "createdAt": "2024-08-28T12:38:12.830355",
+        "title": "Main Street",
+        "location": [
+            34.35763314165464,
+            -97.45757885117794
+        ],
+        "zipcode": "29664-3535",
+        "categories": [
+            "Bank"
+        ],
+        "address": "289 Main Street, Houston, TX",
+        "id": "b9e81c13-045e-40ca-9d1b-60b5f74737dd"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca42",
+        "createdAt": "2024-08-28T12:38:12.830366",
+        "title": "Oak Street",
+        "location": [
+            30.374312581572745,
+            -85.65226289671824
+        ],
+        "zipcode": "20866-2794",
+        "categories": [
+            "Bank",
+            "Credit Union"
+        ],
+        "address": "66 Oak Street, Houston, TX",
+        "id": "f0e88bfb-25b0-4b4a-bc16-397fe218a3be"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca43",
+        "createdAt": "2024-08-28T12:38:12.830375",
+        "title": "Elm Street",
+        "location": [
+            28.09972369971792,
+            -96.74132642554899
+        ],
+        "zipcode": "66767-1432",
+        "categories": [
+            "Bank",
+            "ATM"
+        ],
+        "address": "683 Elm Street, Austin, TX",
+        "id": "c18d46de-b9e6-4d99-9363-f6fe8101b0dc"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca44",
+        "createdAt": "2024-08-28T12:38:12.830385",
+        "title": "Elm Street",
+        "location": [
+            34.51203759752002,
+            -94.54379408033564
+        ],
+        "zipcode": "61378-5863",
+        "categories": [
+            "ATM",
+            "Credit Union"
+        ],
+        "address": "78 Elm Street, Fort Worth, TX",
+        "id": "eaca2862-fa2c-4941-ae4f-2e499c49170c"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca45",
+        "createdAt": "2024-08-28T12:38:12.830395",
+        "title": "Cedar Street",
+        "location": [
+            25.306283852163254,
+            -88.13131690152409
+        ],
+        "zipcode": "20915-7483",
+        "categories": [
+            "ATM",
+            "Bank"
+        ],
+        "address": "61 Cedar Street, San Antonio, TX",
+        "id": "25b40bbc-8065-44ba-ba5b-b731258f028a"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca46",
+        "createdAt": "2024-08-28T12:38:12.830431",
+        "title": "Main Street",
+        "location": [
+            33.39497323770221,
+            -96.05197388226482
+        ],
+        "zipcode": "76189-6362",
+        "categories": [
+            "Bank",
+            "ATM"
+        ],
+        "address": "728 Main Street, San Antonio, TX",
+        "id": "a65eafee-3e49-434b-ad34-b2e26058126e"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca47",
+        "createdAt": "2024-08-28T12:38:12.830458",
+        "title": "Oak Street",
+        "location": [
+            32.77710618883381,
+            -96.29762735269378
+        ],
+        "zipcode": "38446-1962",
+        "categories": [
+            "ATM",
+            "Credit Union",
+            "Bank"
+        ],
+        "address": "591 Oak Street, Dallas, TX",
+        "id": "2f39cdb8-3074-4e78-aab1-ff466674b9d0"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca48",
+        "createdAt": "2024-08-28T12:38:12.830476",
+        "title": "Pine Street",
+        "location": [
+            32.53777227777418,
+            -94.99537511293094
+        ],
+        "zipcode": "97178-8283",
+        "categories": [
+            "Credit Union",
+            "Bank"
+        ],
+        "address": "305 Pine Street, Fort Worth, TX",
+        "id": "2aecbad3-3443-4ea8-8f83-719c7e7d5b83"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca49",
+        "createdAt": "2024-08-28T12:38:12.830494",
+        "title": "Main Street",
+        "location": [
+            34.081046247697614,
+            -92.41872999980176
+        ],
+        "zipcode": "26225-2407",
+        "categories": [
+            "Bank"
+        ],
+        "address": "116 Main Street, Dallas, TX",
+        "id": "534f1ceb-89fc-43bd-a7df-e7234ee3a77a"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4a",
+        "createdAt": "2024-08-28T12:38:12.830508",
+        "title": "Oak Street",
+        "location": [
+            27.576666609561283,
+            -88.43873907828387
+        ],
+        "zipcode": "65156-5615",
+        "categories": [
+            "Bank",
+            "Credit Union",
+            "ATM"
+        ],
+        "address": "266 Oak Street, Dallas, TX",
+        "id": "5b93dce5-c9ae-427d-bf6e-bdaaa0d77756"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4b",
+        "createdAt": "2024-08-28T12:38:12.830522",
+        "title": "Main Street",
+        "location": [
+            30.216331689737974,
+            -95.17841679191751
+        ],
+        "zipcode": "79708-8319",
+        "categories": [
+            "Credit Union",
+            "ATM"
+        ],
+        "address": "965 Main Street, Fort Worth, TX",
+        "id": "0ae3d6cb-a0c0-4293-ba63-75a991ce72ca"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4c",
+        "createdAt": "2024-08-28T12:38:12.830533",
+        "title": "Pine Street",
+        "location": [
+            31.961492470464403,
+            -83.33377085935903
+        ],
+        "zipcode": "14780-2314",
+        "categories": [
+            "Credit Union"
+        ],
+        "address": "131 Pine Street, San Antonio, TX",
+        "id": "d810a0ad-aefb-46be-9d9b-4d0720393023"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4d",
+        "createdAt": "2024-08-28T12:38:12.830547",
+        "title": "Main Street",
+        "location": [
+            29.86162000653751,
+            -87.34106290417726
+        ],
+        "zipcode": "22045-7469",
+        "categories": [
+            "ATM",
+            "Credit Union",
+            "Bank"
+        ],
+        "address": "451 Main Street, San Antonio, TX",
+        "id": "db8f31db-143d-4b42-a964-43cbcaba78dc"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4e",
+        "createdAt": "2024-08-28T12:38:12.830564",
+        "title": "Elm Street",
+        "location": [
+            33.55710025706112,
+            -93.77248436588195
+        ],
+        "zipcode": "24184-8553",
+        "categories": [
+            "Credit Union",
+            "Bank",
+            "ATM"
+        ],
+        "address": "323 Elm Street, Houston, TX",
+        "id": "8a3b274f-bac8-4092-a0a7-b385adbc002d"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca4f",
+        "createdAt": "2024-08-28T12:38:12.830583",
+        "title": "Oak Street",
+        "location": [
+            34.46293212276689,
+            -91.41685342951266
+        ],
+        "zipcode": "30283-9578",
+        "categories": [
+            "Bank",
+            "ATM",
+            "Credit Union"
+        ],
+        "address": "149 Oak Street, Houston, TX",
+        "id": "e109c527-a021-471b-825c-3a03fd1d9020"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca50",
+        "createdAt": "2024-08-28T12:38:12.830600",
+        "title": "Pine Street",
+        "location": [
+            25.03670233214047,
+            -88.39113587762164
+        ],
+        "zipcode": "86966-1410",
+        "categories": [
+            "Credit Union"
+        ],
+        "address": "795 Pine Street, Dallas, TX",
+        "id": "94fcbc8e-3247-4005-8282-7800e8c804f9"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca51",
+        "createdAt": "2024-08-28T12:38:12.830625",
+        "title": "Main Street",
+        "location": [
+            25.052713146502448,
+            -85.68585281405431
+        ],
+        "zipcode": "13942-4181",
+        "categories": [
+            "ATM"
+        ],
+        "address": "811 Main Street, Fort Worth, TX",
+        "id": "711ed9f9-6981-4813-ba63-3615f3c109e4"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca52",
+        "createdAt": "2024-08-28T12:38:12.830642",
+        "title": "Main Street",
+        "location": [
+            29.18411188513927,
+            -94.81301708519902
+        ],
+        "zipcode": "58730-3872",
+        "categories": [
+            "Bank",
+            "ATM"
+        ],
+        "address": "930 Main Street, Austin, TX",
+        "id": "be990d9d-a21b-4405-95ad-c79c4e89fbaa"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca53",
+        "createdAt": "2024-08-28T12:38:12.830663",
+        "title": "Oak Street",
+        "location": [
+            28.398023021422947,
+            -91.36979157191548
+        ],
+        "zipcode": "82671-4822",
+        "categories": [
+            "Bank"
+        ],
+        "address": "262 Oak Street, Fort Worth, TX",
+        "id": "faefab6d-a136-4358-88bd-d2bf19d8e16d"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca54",
+        "createdAt": "2024-08-28T12:38:12.830681",
+        "title": "Main Street",
+        "location": [
+            34.78121646202828,
+            -80.9396445220568
+        ],
+        "zipcode": "58323-7544",
+        "categories": [
+            "Bank"
+        ],
+        "address": "423 Main Street, Austin, TX",
+        "id": "6957a4d8-a51a-43d3-a6a9-dc0e9a1cffbb"
+    },
+    {
+        "_id": "66d5b7d47195bb21adffca55",
+        "createdAt": "2024-08-28T12:38:12.830699",
+        "title": "Pine Street",
+        "location": [
+            28.16511433845481,
+            -90.32103219274526
+        ],
+        "zipcode": "42211-3660",
+        "categories": [
+            "ATM",
+            "Credit Union"
+        ],
+        "address": "705 Pine Street, Austin, TX",
+        "id": "898a3b04-3e1c-4f00-b945-3c750d479832"
+    }
+]
