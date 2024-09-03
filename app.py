@@ -8,6 +8,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
+
 client = MongoClient('mongodb+srv://projectssmit:8FvTZSs4pQ7sADQK@midfloridadata.nungw.mongodb.net/?retryWrites=true&w=majority&appName=MidFloridaData') 
 # use a database named "myDatabase"
 db = client["map-data"]
