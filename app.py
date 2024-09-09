@@ -58,12 +58,11 @@ def get_locations():
     query = {}
     if categories:
         query["categories"] = {"$in": categories}  # Filter by categories
-    print(query)
-    all_locations = collection.find(query)
+    all_locations = collection.find(query,{'_id': 0})
     filtered_data = []
     if lat is None or lon is None:
       
-        return dumps(all_locations)
+        return jsonify(list(all_locations))
 
     for item in all_locations:
         item_lat = item["location"][0]
@@ -73,7 +72,8 @@ def get_locations():
             if distance > max_distance:
                 continue
         filtered_data.append(item)
-    return dumps(filtered_data)
+    return jsonify(filtered_data)
+
 
 if __name__ == "__main__":
   app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 3000)))
