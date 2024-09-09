@@ -45,7 +45,7 @@ def hello_world():
 @app.route("/data")
 def get_locations():
     lat_str = request.args.get("lat")
-    lon_str = request.args.get("lon")
+    lon_str = request.args.get("lng")
     # Single-line null checks and conversions with error handling
     lat = float(lat_str) if lat_str else None
     lon = float(lon_str) if lon_str else None
