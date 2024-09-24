@@ -13,7 +13,7 @@ CORS(app)
 client = MongoClient('mongodb+srv://projectssmit:8FvTZSs4pQ7sADQK@midfloridadata.nungw.mongodb.net/?retryWrites=true&w=majority&appName=MidFloridaData') 
 # use a database named "myDatabase"
 db = client["map-data"]
-collection = db["midflorida-data"]
+collection = db["midflorida-data-2"]
 
 # Get all the data of collection and save all the data in data var
 data = list(collection.find({}))
@@ -57,7 +57,7 @@ def get_locations():
     # Fetch data from MongoDB
     query = {}
     if categories:
-        query["categories"] = {"$in": categories}  # Filter by categories
+        query["locationTypeList"] = {"$in": categories}  # Filter by categories
     all_locations = collection.find(query,{'_id': 0})
     filtered_data = []
     if lat is None or lon is None:
@@ -65,8 +65,8 @@ def get_locations():
         return jsonify(list(all_locations))
 
     for item in all_locations:
-        item_lat = item["location"][0]
-        item_lon = item["location"][1]
+        item_lat = item["latitude"]
+        item_lon = item["longitude"]
         if max_distance > 0:
             distance = calculate_distance(item_lat, item_lon, lat, lon)
             if distance > max_distance:
